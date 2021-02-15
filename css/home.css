@@ -1,0 +1,13 @@
+h4{
+    margin: 10px 50px;
+    padding: 10px;
+    border-style: double;
+    border:solid;
+    border-color:BLUE ;
+}
+h6{
+    margin: 10px 50px;
+}
+p{
+    margin: 20px 50px;
+}
